@@ -1,4 +1,4 @@
-# PracticalMachineLearning_CourseProject
+# Practical Machine Learning Course Project
 
 This is the final course project for Coursera's Practical Machine Learning course as part of the Data Science Specialization.
 

@@ -2,7 +2,7 @@
 
 This is the final course project for Coursera's Practical Machine Learning course as part of the Data Science Specialization.
 
-In this project, I use data obtained from http://groupware.les.inf.puc-rio.br/har to practice building machine learning models to classify activities. The data represent measurements taken by wearable devices as participants perform dumbell curls in six different manners (classes):
+In this project, I use data obtained from http://groupware.les.inf.puc-rio.br/har to practice building machine learning models to classify activities. The data represent measurements taken by wearable devices as participants perform dumbell curls in five different manners (classes):
 
 * Class A: Exercise performed correctly
 * Class B: Throwing the elbows to the front
